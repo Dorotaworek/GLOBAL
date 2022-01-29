@@ -792,3 +792,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.29-12.35.44:154][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.01.29-12.35.44:275][  2]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.01.29-12.35.45:068][ 50]LogSlate: Took 0.000417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-12.47.32:276][104]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
